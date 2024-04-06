@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Mar 13 19:08:13 KST 2024
+org.eclipse.jst.jee.server\:BookRentalPjt=C\:\\Users\\PC\\Desktop\\springMVC_STS\\download\\apache-tomcat-9.0.84\\apache-tomcat-9.0.84\\wtpwebapps\\BookRentalPjt
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\PC\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\Users\\PC\\Desktop\\springMVC_STS\\download\\apache-tomcat-9.0.84\\apache-tomcat-9.0.84\\wtpwebapps\\BookRentalPjt\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
